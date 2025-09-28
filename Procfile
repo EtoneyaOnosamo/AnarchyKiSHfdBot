@@ -1,1 +1,1 @@
-worker: python3 ispovedbot.py
+worker: python ispovedbot.py
